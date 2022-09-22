@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import pea_alphabet
+import sam_alphabet
